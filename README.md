@@ -12,11 +12,11 @@ A modern and responsive Payment Interface UI built using HTML and Tailwind CSS. 
 HTML5
 Tailwind CSS (via CDN / build setup)
 ## 📂 Project Structure
-payment-ui/
-│── index.html
-│── assets/
-│   └── images/
-│── styles/ (optional if custom CSS used)
+    payment-ui/
+    │── index.html
+    │── assets/
+    │   └── images/
+    │── styles/ (optional if custom CSS used)
 ## 🎯 What This Project Demonstrates
 1. Strong understanding of Tailwind utility classes
 2. Ability to build responsive layouts using Flexbox & Grid
