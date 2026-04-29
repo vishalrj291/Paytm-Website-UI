@@ -29,15 +29,12 @@ CTA buttons with hover effects
 Structured form sections
 ▶️ How to Run
 Clone the repository
-git clone https://github.com/your-username/payment-ui.git
+git clone https://github.com/vishalrj291/Paytm-Website-UI.git
 Open index.html in your browser
 🌐 Deployment
 
-You can deploy this project easily using:
-
-GitHub Pages
 Vercel
-Netlify
+
 🔮 Future Improvements
 Add form validation (JavaScript)
 Integrate payment gateway (Stripe/Razorpay)
